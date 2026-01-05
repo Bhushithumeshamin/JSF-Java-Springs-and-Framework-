@@ -13,20 +13,13 @@ It enables effective inventory control for administrators and an intuitive book 
 
 Inventory Control
 Perform full CRUD (Create, Read, Update, Delete) operations to manage:
-
 Book titles
-
 Authors
-
 ISBN
-
 Pricing
-
 Stock levels
-
 Secure Access
 Restricted administrator login ensures that only authorized personnel can modify inventory data.
-
 Real-time Management
 A dedicated admin dashboard allows quick updates and removals using streamlined forms.
 
